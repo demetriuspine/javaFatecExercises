@@ -1,3 +1,5 @@
+//3.Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
+
 import java.util.Scanner;
 
 public class exercise3 {
