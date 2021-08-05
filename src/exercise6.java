@@ -8,7 +8,7 @@ public class exercise6 {
     double bonus = 0.05;
     double tax = 0.07;
 
-    System.out.print("digite o salário do funcionário");
+    System.out.print("digite o salário do funcionário: ");
     double baseWage = wageScanner.nextDouble();
 
     double wageBeforeTax = baseWage * (1 + bonus);
