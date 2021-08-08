@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio9 {
+public class exercise9 {
   public static void main(String[] args) {
     Scanner trianglScanner = new Scanner(System.in);
 
