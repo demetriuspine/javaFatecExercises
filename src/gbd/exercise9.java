@@ -1,3 +1,4 @@
+package gbd;
 import java.util.Scanner;
 
 public class exercise9 {
