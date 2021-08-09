@@ -1,4 +1,7 @@
 package gbd;
+
+//Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2.
+
 import java.util.Scanner;
 
 public class exercise9 {
